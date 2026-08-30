@@ -1,0 +1,44 @@
+{
+  "date": "2026-08-30",
+  "marges": [
+    {
+      "sport": "Soccer · EPL",
+      "match": "Chelsea vs Brighton and Hove Albion",
+      "marge": 34.31,
+      "issues": [
+        {
+          "nom": "Brighton and Hove Albion",
+          "bookmaker": "Matchbook",
+          "cote": 34.0
+        },
+        {
+          "nom": "Chelsea",
+          "bookmaker": "Codere (IT)",
+          "cote": 1.85
+        },
+        {
+          "nom": "Draw",
+          "bookmaker": "Matchbook",
+          "cote": 11.5
+        }
+      ]
+    },
+    {
+      "sport": "Tennis · ATP US Open",
+      "match": "Andrea Guerrieri vs Alex de Minaur",
+      "marge": 3.03,
+      "issues": [
+        {
+          "nom": "Alex de Minaur",
+          "bookmaker": "Matchbook",
+          "cote": 1.06
+        },
+        {
+          "nom": "Andrea Guerrieri",
+          "bookmaker": "1xBet",
+          "cote": 38.0
+        }
+      ]
+    }
+  ]
+}
