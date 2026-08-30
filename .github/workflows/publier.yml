@@ -1,1 +1,37 @@
+name: Publier la marge du jour
 
+on:
+  schedule:
+    - cron: "0 7 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  publier:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dépendances
+        run: pip install requests
+
+      - name: Générer les données du jour
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+        run: python generer_donnees_site.py
+
+      - name: Publier le résultat
+        run: |
+          git config user.name "bot-marges"
+          git config user.email "bot@example.com"
+          git add data/marges.json
+          git diff --quiet --cached || git commit -m "Mise à jour des marges du jour"
+          git push
