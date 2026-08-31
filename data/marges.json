@@ -1,32 +1,32 @@
 {
-  "date": "2026-08-30",
+  "date": "2026-08-31",
   "marges": [
     {
       "sport": "Tennis · ATP US Open",
-      "match": "Andrea Guerrieri vs Alex de Minaur",
-      "marge": 3.03,
+      "match": "Thiago Agustin Tirante vs Adrian Mannarino",
+      "marge": 5.15,
       "issues": [
         {
-          "nom": "Alex de Minaur",
-          "bookmaker": "Matchbook",
-          "cote": 1.06
+          "nom": "Adrian Mannarino",
+          "bookmaker": "Betfair",
+          "cote": 1.11
         },
         {
-          "nom": "Andrea Guerrieri",
+          "nom": "Thiago Agustin Tirante",
           "bookmaker": "1xBet",
-          "cote": 38.0
+          "cote": 21.0
         }
       ]
     },
     {
       "sport": "Tennis · ATP US Open",
       "match": "Dane Sweeny vs Corentin Moutet",
-      "marge": 2.83,
+      "marge": 3.38,
       "issues": [
         {
           "nom": "Corentin Moutet",
           "bookmaker": "Matchbook",
-          "cote": 1.35
+          "cote": 1.36
         },
         {
           "nom": "Dane Sweeny",
