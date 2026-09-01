@@ -1,37 +1,37 @@
 {
-  "date": "2026-08-31",
+  "date": "2026-09-01",
   "marges": [
     {
       "sport": "Tennis · ATP US Open",
-      "match": "Thiago Agustin Tirante vs Adrian Mannarino",
-      "marge": 5.15,
+      "match": "Tomas Martin Etcheverry vs Jacob Fearnley",
+      "marge": 2.46,
       "issues": [
         {
-          "nom": "Adrian Mannarino",
+          "nom": "Jacob Fearnley",
           "bookmaker": "Betfair",
-          "cote": 1.11
+          "cote": 1.92
         },
         {
-          "nom": "Thiago Agustin Tirante",
-          "bookmaker": "1xBet",
-          "cote": 21.0
+          "nom": "Tomas Martin Etcheverry",
+          "bookmaker": "MyBookie.ag",
+          "cote": 2.2
         }
       ]
     },
     {
       "sport": "Tennis · ATP US Open",
       "match": "Dane Sweeny vs Corentin Moutet",
-      "marge": 3.38,
+      "marge": 2.42,
       "issues": [
         {
           "nom": "Corentin Moutet",
           "bookmaker": "Matchbook",
-          "cote": 1.36
+          "cote": 1.39
         },
         {
           "nom": "Dane Sweeny",
-          "bookmaker": "1xBet",
-          "cote": 4.33
+          "bookmaker": "Marathon Bet",
+          "cote": 3.9
         }
       ]
     }
