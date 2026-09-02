@@ -2,36 +2,36 @@
   "date": "2026-09-02",
   "marges": [
     {
-      "sport": "Tennis · WTA US Open",
-      "match": "Tatjana Maria vs Jelena Ostapenko",
-      "marge": 2.9,
+      "sport": "Tennis · ATP US Open",
+      "match": "Daniel Merida Aguilar vs Andrey Rublev",
+      "marge": 30.39,
       "issues": [
         {
-          "nom": "Jelena Ostapenko",
-          "bookmaker": "Unibet (NL)",
-          "cote": 2.08
+          "nom": "Andrey Rublev",
+          "bookmaker": "Betfair",
+          "cote": 34.0
         },
         {
-          "nom": "Tatjana Maria",
-          "bookmaker": "Betfair",
-          "cote": 2.04
+          "nom": "Daniel Merida Aguilar",
+          "bookmaker": "Winamax (DE)",
+          "cote": 1.5
         }
       ]
     },
     {
       "sport": "Tennis · WTA US Open",
-      "match": "Daria Kasatkina vs Paula Badosa",
-      "marge": 2.64,
+      "match": "Emma Navarro vs Caty McNally",
+      "marge": 6.34,
       "issues": [
         {
-          "nom": "Daria Kasatkina",
-          "bookmaker": "1xBet",
-          "cote": 15.5
+          "nom": "Caty McNally",
+          "bookmaker": "Pinnacle",
+          "cote": 1.59
         },
         {
-          "nom": "Paula Badosa",
-          "bookmaker": "888sport",
-          "cote": 1.1
+          "nom": "Emma Navarro",
+          "bookmaker": "Unibet (SE)",
+          "cote": 3.25
         }
       ]
     }
