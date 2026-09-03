@@ -1,39 +1,4 @@
 {
-  "date": "2026-09-02",
-  "marges": [
-    {
-      "sport": "Tennis · ATP US Open",
-      "match": "Daniel Merida Aguilar vs Andrey Rublev",
-      "marge": 30.39,
-      "issues": [
-        {
-          "nom": "Andrey Rublev",
-          "bookmaker": "Betfair",
-          "cote": 34.0
-        },
-        {
-          "nom": "Daniel Merida Aguilar",
-          "bookmaker": "Winamax (DE)",
-          "cote": 1.5
-        }
-      ]
-    },
-    {
-      "sport": "Tennis · WTA US Open",
-      "match": "Emma Navarro vs Caty McNally",
-      "marge": 6.34,
-      "issues": [
-        {
-          "nom": "Caty McNally",
-          "bookmaker": "Pinnacle",
-          "cote": 1.59
-        },
-        {
-          "nom": "Emma Navarro",
-          "bookmaker": "Unibet (SE)",
-          "cote": 3.25
-        }
-      ]
-    }
-  ]
+  "date": "2026-09-03",
+  "marges": []
 }
