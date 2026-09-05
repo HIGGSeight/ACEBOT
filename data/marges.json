@@ -1,22 +1,4 @@
 {
-  "date": "2026-09-04",
-  "marges": [
-    {
-      "sport": "Tennis · ATP US Open",
-      "match": "Luciano Darderi vs Dane Sweeny",
-      "marge": 2.66,
-      "issues": [
-        {
-          "nom": "Dane Sweeny",
-          "bookmaker": "1xBet",
-          "cote": 5.99
-        },
-        {
-          "nom": "Luciano Darderi",
-          "bookmaker": "Betfair",
-          "cote": 1.24
-        }
-      ]
-    }
-  ]
+  "date": "2026-09-05",
+  "marges": []
 }
