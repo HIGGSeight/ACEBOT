@@ -1,4 +1,22 @@
 {
-  "date": "2026-09-08",
-  "marges": []
+  "date": "2026-09-09",
+  "marges": [
+    {
+      "sport": "Tennis · ATP US Open",
+      "match": "Ben Shelton vs Carlos Alcaraz",
+      "marge": 9.51,
+      "issues": [
+        {
+          "nom": "Ben Shelton",
+          "bookmaker": "Pinnacle",
+          "cote": 2.44
+        },
+        {
+          "nom": "Carlos Alcaraz",
+          "bookmaker": "Betfair",
+          "cote": 2.02
+        }
+      ]
+    }
+  ]
 }
