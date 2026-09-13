@@ -1,4 +1,27 @@
 {
-  "date": "2026-09-12",
-  "marges": []
+  "date": "2026-09-13",
+  "marges": [
+    {
+      "sport": "Mma · Mixed Martial Arts",
+      "match": "Tom Aspinall vs Ciryl Gane",
+      "marge": 2.68,
+      "issues": [
+        {
+          "nom": "Ciryl Gane",
+          "bookmaker": "1xBet",
+          "cote": 2.45
+        },
+        {
+          "nom": "Tom Aspinall",
+          "bookmaker": "BetOnline.ag",
+          "cote": 1.87
+        },
+        {
+          "nom": "Draw",
+          "bookmaker": "1xBet",
+          "cote": 33.0
+        }
+      ]
+    }
+  ]
 }
