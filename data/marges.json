@@ -1,27 +1,4 @@
 {
-  "date": "2026-09-25",
-  "marges": [
-    {
-      "sport": "Mma · Mixed Martial Arts",
-      "match": "Luis Hernandez vs Sedriques Dumas",
-      "marge": 29.04,
-      "issues": [
-        {
-          "nom": "Luis Hernandez",
-          "bookmaker": "Nordic Bet",
-          "cote": 2.9
-        },
-        {
-          "nom": "Sedriques Dumas",
-          "bookmaker": "Pinnacle",
-          "cote": 2.99
-        },
-        {
-          "nom": "Draw",
-          "bookmaker": "1xBet",
-          "cote": 33.0
-        }
-      ]
-    }
-  ]
+  "date": "2026-09-26",
+  "marges": []
 }
