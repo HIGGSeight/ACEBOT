@@ -1,4 +1,27 @@
 {
-  "date": "2026-10-03",
-  "marges": []
+  "date": "2026-10-04",
+  "marges": [
+    {
+      "sport": "Mma · Mixed Martial Arts",
+      "match": "Sergey Pavlovich vs Alex Pereira",
+      "marge": 2.76,
+      "issues": [
+        {
+          "nom": "Alex Pereira",
+          "bookmaker": "BetOnline.ag",
+          "cote": 2.49
+        },
+        {
+          "nom": "Sergey Pavlovich",
+          "bookmaker": "Betclic (FR)",
+          "cote": 1.85
+        },
+        {
+          "nom": "Draw",
+          "bookmaker": "1xBet",
+          "cote": 33.0
+        }
+      ]
+    }
+  ]
 }
