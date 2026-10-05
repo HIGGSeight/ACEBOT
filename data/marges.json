@@ -1,25 +1,42 @@
 {
-  "date": "2026-10-04",
+  "date": "2026-10-05",
   "marges": [
     {
       "sport": "Mma · Mixed Martial Arts",
       "match": "Sergey Pavlovich vs Alex Pereira",
-      "marge": 2.76,
+      "marge": 2.44,
       "issues": [
         {
           "nom": "Alex Pereira",
           "bookmaker": "BetOnline.ag",
-          "cote": 2.49
+          "cote": 2.4
         },
         {
           "nom": "Sergey Pavlovich",
           "bookmaker": "Betclic (FR)",
-          "cote": 1.85
+          "cote": 1.83
         },
         {
           "nom": "Draw",
           "bookmaker": "1xBet",
-          "cote": 33.0
+          "cote": 80.0
+        }
+      ]
+    },
+    {
+      "sport": "Basketball · NBA",
+      "match": "Houston Rockets vs Dallas Mavericks",
+      "marge": 2.4,
+      "issues": [
+        {
+          "nom": "Dallas Mavericks",
+          "bookmaker": "1xBet",
+          "cote": 4.25
+        },
+        {
+          "nom": "Houston Rockets",
+          "bookmaker": "Betfair",
+          "cote": 1.35
         }
       ]
     }
