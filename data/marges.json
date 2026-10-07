@@ -1,22 +1,4 @@
 {
-  "date": "2026-10-06",
-  "marges": [
-    {
-      "sport": "Basketball · NBA",
-      "match": "Houston Rockets vs Dallas Mavericks",
-      "marge": 2.4,
-      "issues": [
-        {
-          "nom": "Dallas Mavericks",
-          "bookmaker": "1xBet",
-          "cote": 4.25
-        },
-        {
-          "nom": "Houston Rockets",
-          "bookmaker": "Betfair",
-          "cote": 1.35
-        }
-      ]
-    }
-  ]
+  "date": "2026-10-07",
+  "marges": []
 }
