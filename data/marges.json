@@ -1,27 +1,4 @@
 {
-  "date": "2026-10-09",
-  "marges": [
-    {
-      "sport": "Soccer · EPL",
-      "match": "Aston Villa vs Brentford",
-      "marge": 3.63,
-      "issues": [
-        {
-          "nom": "Aston Villa",
-          "bookmaker": "Betfair",
-          "cote": 2.82
-        },
-        {
-          "nom": "Brentford",
-          "bookmaker": "1xBet",
-          "cote": 2.92
-        },
-        {
-          "nom": "Draw",
-          "bookmaker": "Unibet (NL)",
-          "cote": 3.75
-        }
-      ]
-    }
-  ]
+  "date": "2026-10-10",
+  "marges": []
 }
