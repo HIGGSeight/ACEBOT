@@ -1,27 +1,4 @@
 {
-  "date": "2026-10-11",
-  "marges": [
-    {
-      "sport": "Soccer · EPL",
-      "match": "Crystal Palace vs Nottingham Forest",
-      "marge": 26.39,
-      "issues": [
-        {
-          "nom": "Crystal Palace",
-          "bookmaker": "Nordic Bet",
-          "cote": 8.6
-        },
-        {
-          "nom": "Nottingham Forest",
-          "bookmaker": "Betfair",
-          "cote": 2.66
-        },
-        {
-          "nom": "Draw",
-          "bookmaker": "Pinnacle",
-          "cote": 4.1
-        }
-      ]
-    }
-  ]
+  "date": "2026-10-12",
+  "marges": []
 }
