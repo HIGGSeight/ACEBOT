@@ -1,4 +1,27 @@
 {
-  "date": "2026-10-16",
-  "marges": []
+  "date": "2026-10-17",
+  "marges": [
+    {
+      "sport": "Icehockey · NHL",
+      "match": "Tampa Bay Lightning vs Vancouver Canucks",
+      "marge": 2.92,
+      "issues": [
+        {
+          "nom": "Tampa Bay Lightning",
+          "bookmaker": "1xBet",
+          "cote": 1.48
+        },
+        {
+          "nom": "Vancouver Canucks",
+          "bookmaker": "Tipico",
+          "cote": 7.2
+        },
+        {
+          "nom": "Draw",
+          "bookmaker": "LeoVegas (SE)",
+          "cote": 6.4
+        }
+      ]
+    }
+  ]
 }
