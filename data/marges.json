@@ -1,25 +1,37 @@
 {
-  "date": "2026-10-17",
+  "date": "2026-10-18",
   "marges": [
     {
-      "sport": "Icehockey · NHL",
-      "match": "Tampa Bay Lightning vs Vancouver Canucks",
-      "marge": 2.92,
+      "sport": "Basketball · NBA",
+      "match": "Los Angeles Clippers vs Sacramento Kings",
+      "marge": 3.51,
       "issues": [
         {
-          "nom": "Tampa Bay Lightning",
+          "nom": "Los Angeles Clippers",
+          "bookmaker": "Betfair",
+          "cote": 1.69
+        },
+        {
+          "nom": "Sacramento Kings",
           "bookmaker": "1xBet",
-          "cote": 1.48
+          "cote": 2.68
+        }
+      ]
+    },
+    {
+      "sport": "Basketball · NBA",
+      "match": "Memphis Grizzlies vs Utah Jazz",
+      "marge": 2.88,
+      "issues": [
+        {
+          "nom": "Memphis Grizzlies",
+          "bookmaker": "1xBet",
+          "cote": 2.1
         },
         {
-          "nom": "Vancouver Canucks",
-          "bookmaker": "Tipico",
-          "cote": 7.2
-        },
-        {
-          "nom": "Draw",
-          "bookmaker": "LeoVegas (SE)",
-          "cote": 6.4
+          "nom": "Utah Jazz",
+          "bookmaker": "Betfair",
+          "cote": 2.02
         }
       ]
     }
