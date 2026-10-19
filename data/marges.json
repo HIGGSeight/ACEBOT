@@ -1,37 +1,20 @@
 {
-  "date": "2026-10-18",
+  "date": "2026-10-19",
   "marges": [
     {
       "sport": "Basketball · NBA",
-      "match": "Los Angeles Clippers vs Sacramento Kings",
-      "marge": 3.51,
+      "match": "Oklahoma City Thunder vs Denver Nuggets",
+      "marge": 3.5,
       "issues": [
         {
-          "nom": "Los Angeles Clippers",
-          "bookmaker": "Betfair",
-          "cote": 1.69
+          "nom": "Denver Nuggets",
+          "bookmaker": "1xBet",
+          "cote": 4.46
         },
         {
-          "nom": "Sacramento Kings",
-          "bookmaker": "1xBet",
-          "cote": 2.68
-        }
-      ]
-    },
-    {
-      "sport": "Basketball · NBA",
-      "match": "Memphis Grizzlies vs Utah Jazz",
-      "marge": 2.88,
-      "issues": [
-        {
-          "nom": "Memphis Grizzlies",
-          "bookmaker": "1xBet",
-          "cote": 2.1
-        },
-        {
-          "nom": "Utah Jazz",
-          "bookmaker": "Betfair",
-          "cote": 2.02
+          "nom": "Oklahoma City Thunder",
+          "bookmaker": "Unibet (SE)",
+          "cote": 1.35
         }
       ]
     }
