@@ -1,22 +1,4 @@
 {
-  "date": "2026-10-19",
-  "marges": [
-    {
-      "sport": "Basketball · NBA",
-      "match": "Oklahoma City Thunder vs Denver Nuggets",
-      "marge": 3.5,
-      "issues": [
-        {
-          "nom": "Denver Nuggets",
-          "bookmaker": "1xBet",
-          "cote": 4.46
-        },
-        {
-          "nom": "Oklahoma City Thunder",
-          "bookmaker": "Unibet (SE)",
-          "cote": 1.35
-        }
-      ]
-    }
-  ]
+  "date": "2026-10-20",
+  "marges": []
 }
