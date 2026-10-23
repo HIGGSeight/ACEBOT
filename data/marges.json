@@ -1,4 +1,22 @@
 {
-  "date": "2026-10-22",
-  "marges": []
+  "date": "2026-10-23",
+  "marges": [
+    {
+      "sport": "Mma · Mixed Martial Arts",
+      "match": "Renato Moicano vs Tom Nolan",
+      "marge": 11.06,
+      "issues": [
+        {
+          "nom": "Renato Moicano",
+          "bookmaker": "BetOnline.ag",
+          "cote": 2.49
+        },
+        {
+          "nom": "Tom Nolan",
+          "bookmaker": "Betclic (FR)",
+          "cote": 2.05
+        }
+      ]
+    }
+  ]
 }
