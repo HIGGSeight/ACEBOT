@@ -1,20 +1,25 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "marges": [
     {
-      "sport": "Mma · Mixed Martial Arts",
-      "match": "Renato Moicano vs Tom Nolan",
-      "marge": 11.06,
+      "sport": "Soccer · EPL",
+      "match": "Aston Villa vs Manchester City",
+      "marge": 14.18,
       "issues": [
         {
-          "nom": "Renato Moicano",
-          "bookmaker": "BetOnline.ag",
-          "cote": 2.49
+          "nom": "Aston Villa",
+          "bookmaker": "William Hill",
+          "cote": 4.4
         },
         {
-          "nom": "Tom Nolan",
+          "nom": "Manchester City",
           "bookmaker": "Betclic (FR)",
-          "cote": 2.05
+          "cote": 2.5
+        },
+        {
+          "nom": "Draw",
+          "bookmaker": "William Hill",
+          "cote": 4.33
         }
       ]
     }
