@@ -1,27 +1,4 @@
 {
-  "date": "2026-10-24",
-  "marges": [
-    {
-      "sport": "Soccer · EPL",
-      "match": "Aston Villa vs Manchester City",
-      "marge": 14.18,
-      "issues": [
-        {
-          "nom": "Aston Villa",
-          "bookmaker": "William Hill",
-          "cote": 4.4
-        },
-        {
-          "nom": "Manchester City",
-          "bookmaker": "Betclic (FR)",
-          "cote": 2.5
-        },
-        {
-          "nom": "Draw",
-          "bookmaker": "William Hill",
-          "cote": 4.33
-        }
-      ]
-    }
-  ]
+  "date": "2026-10-25",
+  "marges": []
 }
