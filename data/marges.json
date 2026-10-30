@@ -1,22 +1,4 @@
 {
-  "date": "2026-10-29",
-  "marges": [
-    {
-      "sport": "Mma · Mixed Martial Arts",
-      "match": "Quillan Salkilld vs Benoit Saint-Denis",
-      "marge": 3.37,
-      "issues": [
-        {
-          "nom": "Benoit Saint-Denis",
-          "bookmaker": "BetOnline.ag",
-          "cote": 2.93
-        },
-        {
-          "nom": "Quillan Salkilld",
-          "bookmaker": "Winamax (FR)",
-          "cote": 1.6
-        }
-      ]
-    }
-  ]
+  "date": "2026-10-30",
+  "marges": []
 }
