@@ -1,22 +1,4 @@
 {
-  "date": "2026-10-31",
-  "marges": [
-    {
-      "sport": "Basketball · NBA",
-      "match": "Houston Rockets vs Oklahoma City Thunder",
-      "marge": 3.33,
-      "issues": [
-        {
-          "nom": "Houston Rockets",
-          "bookmaker": "Matchbook",
-          "cote": 1.78
-        },
-        {
-          "nom": "Oklahoma City Thunder",
-          "bookmaker": "1xBet",
-          "cote": 2.47
-        }
-      ]
-    }
-  ]
+  "date": "2026-11-01",
+  "marges": []
 }
