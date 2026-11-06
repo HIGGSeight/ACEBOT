@@ -1,6 +1,28 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "marges": [
+    {
+      "sport": "Soccer · EPL",
+      "match": "Manchester United vs Aston Villa",
+      "marge": 10.59,
+      "issues": [
+        {
+          "nom": "Aston Villa",
+          "bookmaker": "BetAnything",
+          "cote": 4.6
+        },
+        {
+          "nom": "Manchester United",
+          "bookmaker": "Unibet (NL)",
+          "cote": 2.28
+        },
+        {
+          "nom": "Draw",
+          "bookmaker": "BetAnything",
+          "cote": 4.2
+        }
+      ]
+    },
     {
       "sport": "Mma · Mixed Martial Arts",
       "match": "Quillan Salkilld vs Benoit Saint-Denis",
