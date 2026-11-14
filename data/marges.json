@@ -1,22 +1,4 @@
 {
-  "date": "2026-11-13",
-  "marges": [
-    {
-      "sport": "Mma · Mixed Martial Arts",
-      "match": "Aleksandre Topuria vs Santiago Luna",
-      "marge": 27.66,
-      "issues": [
-        {
-          "nom": "Aleksandre Topuria",
-          "bookmaker": "Nordic Bet",
-          "cote": 2.8
-        },
-        {
-          "nom": "Santiago Luna",
-          "bookmaker": "BetOnline.ag",
-          "cote": 2.73
-        }
-      ]
-    }
-  ]
+  "date": "2026-11-14",
+  "marges": []
 }
