@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-19",
+  "date": "2026-11-20",
   "marges": [
     {
       "sport": "Mma · Mixed Martial Arts",
@@ -15,6 +15,28 @@
           "nom": "Quillan Salkilld",
           "bookmaker": "Winamax (FR)",
           "cote": 1.45
+        }
+      ]
+    },
+    {
+      "sport": "Icehockey · NHL",
+      "match": "Vancouver Canucks vs Minnesota Wild",
+      "marge": 2.69,
+      "issues": [
+        {
+          "nom": "Minnesota Wild",
+          "bookmaker": "1xBet",
+          "cote": 1.68
+        },
+        {
+          "nom": "Vancouver Canucks",
+          "bookmaker": "Tipico",
+          "cote": 5.5
+        },
+        {
+          "nom": "Draw",
+          "bookmaker": "LeoVegas (SE)",
+          "cote": 5.1
         }
       ]
     }
