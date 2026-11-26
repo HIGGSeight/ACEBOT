@@ -1,4 +1,27 @@
 {
-  "date": "2026-11-25",
-  "marges": []
+  "date": "2026-11-26",
+  "marges": [
+    {
+      "sport": "Soccer · EPL",
+      "match": "Nottingham Forest vs Chelsea",
+      "marge": 2.38,
+      "issues": [
+        {
+          "nom": "Chelsea",
+          "bookmaker": "Betfair",
+          "cote": 2.98
+        },
+        {
+          "nom": "Nottingham Forest",
+          "bookmaker": "Unibet (SE)",
+          "cote": 2.7
+        },
+        {
+          "nom": "Draw",
+          "bookmaker": "1xBet",
+          "cote": 3.7
+        }
+      ]
+    }
+  ]
 }
