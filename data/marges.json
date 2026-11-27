@@ -1,25 +1,20 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "marges": [
     {
-      "sport": "Soccer · EPL",
-      "match": "Nottingham Forest vs Chelsea",
-      "marge": 2.38,
+      "sport": "Basketball · NBA",
+      "match": "New York Knicks vs Miami Heat",
+      "marge": 2.86,
       "issues": [
         {
-          "nom": "Chelsea",
+          "nom": "Miami Heat",
+          "bookmaker": "BetAnything",
+          "cote": 2.5
+        },
+        {
+          "nom": "New York Knicks",
           "bookmaker": "Betfair",
-          "cote": 2.98
-        },
-        {
-          "nom": "Nottingham Forest",
-          "bookmaker": "Unibet (SE)",
-          "cote": 2.7
-        },
-        {
-          "nom": "Draw",
-          "bookmaker": "1xBet",
-          "cote": 3.7
+          "cote": 1.75
         }
       ]
     }
